@@ -1,0 +1,10 @@
+li {
+  list-style: none;
+}
+
+img {
+  list-style: none;
+  margin-left: 5px;
+  cursor: pointer;
+  border-radius: 10px;
+}

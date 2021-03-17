@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should contain gallery component 1`] = `"<div><div class=\\"grid-container\\"></div></div>"`;
+
+exports[`should contain searchbox component 1`] = `"<div class=\\"search-container\\"><input type=\\"text\\" placeholder=\\"Search for image\\" value=\\"\\"/></div>"`;
